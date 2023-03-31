@@ -1,3 +1,3 @@
 # projetos-em-andamento
 
-Mario usando HTML, CSS e JavaScript
+Pequena animação do jogo Mario Bross usando HTML, CSS e JavaScript
